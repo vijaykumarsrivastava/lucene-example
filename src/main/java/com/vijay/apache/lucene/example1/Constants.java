@@ -1,4 +1,4 @@
-package com.vijay.apache.lucene;
+package com.vijay.apache.lucene.example1;
 
 /**
  * 
